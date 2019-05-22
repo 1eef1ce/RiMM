@@ -1,0 +1,39 @@
+@media (max-width: 592px) {
+    .section-top {
+        background: #63177b url("images/bg-top-m.png") no-repeat top;
+        height: 1129px;
+    }
+    .block-top {
+        margin-bottom: 10%;
+    }
+    .section-stages {
+        padding-top: 26%;
+    }
+    .item {
+        position: relative;
+        top: auto!important;
+        left: auto!important;
+        right: auto!important;
+        margin-top: 24px;
+    }
+    .item img {
+        width: 80%;
+        max-width: 142px;
+    }
+    .title {
+        font-size: 55px;
+    }
+    .subtitle {
+        font-size: 15px;
+    }
+    .section-top .tel {
+        font-size: 38px;
+        padding-top: 5%;
+    }
+    .btn {
+        font-size: 26px;
+    }
+    .btn-submit-custom {
+        height: 80px;
+    }
+}
